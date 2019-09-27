@@ -1,5 +1,5 @@
 # 参考書
-[https://book.mynavi.jp/ec/products/detail/id=93905](現場で使える Ruby on Rails 5速習実践ガイド)
+[現場で使える Ruby on Rails 5速習実践ガイド | マイナビブックス](https://book.mynavi.jp/ec/products/detail/id=93905)
 
 # 概要
 ## Railsアプリの基本から実践的なノウハウまでこの1冊で！
